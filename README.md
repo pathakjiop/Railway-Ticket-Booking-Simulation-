@@ -90,24 +90,9 @@ python -m src.main
 | Roll No | Name             |
 | ------- | ---------------- |
 | 35      | Atharv Pathak    |
-| 36      | [Student 2 Name] |
-| 37      | [Student 3 Name] |
+| 68      | Shlok Rathi |
 
----
 
-## 🧑‍🏫 **Guide / Mentor**
-
-**Prof. [Guide Name]**
-Department of Information Technology
-SSGMCE, Shegaon
-
----
-
-## 📅 **Submission Details**
-
-**Submission Date:** Before Lab Test
-**Binding:** Patti Strip Binding with Transparent Front Cover
-**Print:** One-sided, 11–12 pages minimum
 
 ---
 
@@ -115,16 +100,3 @@ SSGMCE, Shegaon
 
 The Railway Ticket Booking Simulation successfully demonstrates the application of software engineering concepts in building a modular and functional system. It covers all phases of software development — requirement analysis, design (block diagram), implementation (Python), and testing.
 This project is ideal for academic evaluation, showcasing practical programming, structured documentation, and teamwork.
-
----
-
-## 📎 **GitHub Repository**
-
-👉 [https://github.com/atharvpathak/Railway-Ticket-Booking-Simulation](#)
-
----
-
-Would you like me to:
-
-1. ✅ Add this README.md file into your project ZIP (and repackage it), or
-2. 📄 Generate a **PDF version of this README** formatted for printing (for your TEC report’s documentation pages)?
